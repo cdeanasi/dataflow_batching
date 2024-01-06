@@ -23,3 +23,5 @@ The goal of this repo is to gather designs, tools and templates for batch proces
 Conventions included here will enable best practices to be built up.
 Not only will this speed up projects leveraging them,
 it will allow for integration of components which should lead to building momentum.
+
+![Overview of batch processing with dataflows](docs/design/dataflow_batching_design_v1.drawio.svg)
